@@ -1,4 +1,3 @@
 # Input-Target
-![Uploading Screenshot (1).png…]()
-
-![Uploading Screenshot (2).png…]()
+![Uploading input-target-1.png…]()
+![Uploading input-target-2.png…]()
